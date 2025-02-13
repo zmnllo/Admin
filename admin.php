@@ -18,6 +18,6 @@ if($_SESSION['role'] !== 'admin'){
 <body>
     <h2>Bienvenu Admin</h2>
 
-    <p>ici vous pourrez <a href="modifiez.php">modifier</a> ou <a href="#">céer des utilisateurs</a></p>
+    <p>ici vous pourrez <a href="modifier.php">modifier</a> ou <a href="#">céer des utilisateurs</a></p>
 </body>
 </html>
